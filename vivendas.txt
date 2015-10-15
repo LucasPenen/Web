@@ -1,0 +1,24 @@
+Tipo vivienda: Alquiler de temporada
+Zona: Malvin
+Direccion: Mississipi 1222
+Numero de dormitorios: 5
+Precio: US$ 357000
+Tiene: Jardin Garage 
+Observaciones: Esta sucia.
+-------------------------------------------------------
+Tipo vivienda: Casa
+Zona: Centro
+Direccion: Yi 4932
+Numero de dormitorios: 3
+Precio: US$ 140000
+Tiene: Garage 
+Observaciones: Con boliche en frente.
+-------------------------------------------------------
+Tipo vivienda: Alquiler de temporada
+Zona: Centro
+Direccion: 18 y ejido
+Numero de dormitorios: 3
+Precio: US$ 2344
+Tiene: Piscina 
+Observaciones: dfsdgsdg
+-------------------------------------------------------
